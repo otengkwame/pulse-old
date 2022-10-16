@@ -1,6 +1,9 @@
-# Pulse
+# Pulse Old (Abandoned)
 
 A not so skeleton package for beginners to start PHP
+
+*This was going to be a small setup to build basic applications
+using PHP for beginners.*
 
 ### Why Pulse?
 PHP is considered the most used language to serve web applications. 
